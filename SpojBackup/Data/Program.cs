@@ -12,7 +12,7 @@ namespace Data
             HTTPMethods.Login(ref myCookies);
             string username = "eis19vinhng";
             HTTPMethods.ListOfSolvedProblems(username, myCookies);
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

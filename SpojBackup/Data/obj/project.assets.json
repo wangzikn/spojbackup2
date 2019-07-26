@@ -3957,11 +3957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nguyenquangvinh\\source\\repos\\Data\\Data\\SPOJBackUp.csproj",
-      "projectName": "SPOJBackUp",
-      "projectPath": "C:\\Users\\nguyenquangvinh\\source\\repos\\Data\\Data\\SPOJBackUp.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\SPOJBACKUP\\spojbackup2\\SpojBackup\\Data\\Data.csproj",
+      "projectName": "Data",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\SPOJBACKUP\\spojbackup2\\SpojBackup\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\nguyenquangvinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguyenquangvinh\\source\\repos\\Data\\Data\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\SPOJBACKUP\\spojbackup2\\SpojBackup\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
